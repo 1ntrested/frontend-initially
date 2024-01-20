@@ -1,0 +1,16 @@
+.App{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+body{
+    background-color:#1f1f1f;
+    font-family: Roboto,Helvetica,sans-serif;
+    font-size: 1.5vh;
+}
+#light{
+    background-color: #f8f8f8;
+}
+#dark{
+    background-color: #1f1f1f;
+}
